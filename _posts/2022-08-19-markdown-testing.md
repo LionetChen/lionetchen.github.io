@@ -87,3 +87,9 @@ Foot note [^1]
 - [x] Write the press release
 - [ ] Update the website
 - [ ] Contact the media
+
+:art:
+
+Use equal signs to ==highlight==
+
+H~2~O
