@@ -90,8 +90,13 @@ Foot note [^1]
 
 :art:
 
-Use equal signs to ==highlight== does not work in github or vs... use \<mark\> <mark> instead </mark>
+Use equal signs to ==highlight== does not work in github or vs... use \<mark\> <mark>instead</mark>
 
 H~2~O
 
 H<sub>2</sub>O
+
+> __Note__
+
+> __Warning__
+
