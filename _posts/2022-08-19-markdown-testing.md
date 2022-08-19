@@ -93,3 +93,5 @@ Foot note [^1]
 Use equal signs to ==highlight== does not work in github or vs... use \<mark\> <mark> instead </mark>
 
 H~2~O
+
+H<sub>2</sub>O
