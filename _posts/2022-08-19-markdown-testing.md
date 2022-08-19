@@ -78,7 +78,7 @@ _italic in one star or underscore_
 
 Foot note [^1]
 | Syntax      | Description |
-|---|---:|
+|-------------|------------:|
 | Header      | Title       |
 | Paragraph   | Text        |
 
