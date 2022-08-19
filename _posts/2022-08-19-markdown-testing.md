@@ -78,7 +78,7 @@ _italic in one star or underscore_
 
 Foot note [^1]
 | Syntax      | Description |
-|---|---:|
+|-------------|------------:|
 | Header      | Title       |
 | Paragraph   | Text        |
 
@@ -90,7 +90,7 @@ Foot note [^1]
 
 :art:
 
-Use equal signs to ==highlight== does not work in github or vs... use \<mark\> <mark> instead </mark>
+Use equal signs to ==highlight== does not work in github or vs... use \<mark\> <mark>instead</mark>
 
 H~2~O
 
