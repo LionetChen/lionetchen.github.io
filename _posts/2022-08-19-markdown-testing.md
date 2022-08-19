@@ -24,9 +24,10 @@ I read a lot and also write some cool blogs. You can read [My blog](https://medi
 
 > Make it simple not simpler.  -- Albert Einstein
 
-
+```bash
 # ping on google server (bash script)
-
+ping www.google.com
+```
 
 ```json
 {
@@ -34,7 +35,7 @@ I read a lot and also write some cool blogs. You can read [My blog](https://medi
 }
 ```
 
-```C#
+```csharp
 public void main()
 {
     int i = 0;
@@ -50,3 +51,39 @@ __or two underscores__
 _italic in one star or underscore_
 
 ~~waves are for striking~~
+
+
+1.  List item one.
+
+    List item one continued with a second paragraph followed by an
+    Indented block.
+      ```bash
+        $ ls *.sh
+        $ mv *.sh ~/tmp
+      ```
+    List item continued with a third paragraph.
+
+2.  List item two continued with an open block.
+
+    This paragraph is part of the preceding list item.
+
+    1. This list is nested and does not require explicit item continuation.
+
+       This paragraph is part of the preceding list item.
+
+    2. List item b.
+
+    This paragraph belongs to item two of the outer list.
+
+
+Foot note [^1]
+| Syntax      | Description |
+|---|---:|
+| Header      | Title       |
+| Paragraph   | Text        |
+
+[^1]: This is the first footnote.
+
+- [x] Write the press release
+- [ ] Update the website
+- [ ] Contact the media
